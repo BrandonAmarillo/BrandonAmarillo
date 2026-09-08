@@ -1,5 +1,5 @@
 <div align="center">
-   <header> Hola Visitante 👋</header>
+   <header>👋 Hola soy Brandon </header>
 </div>
 <div align="center">
   
@@ -7,13 +7,21 @@
   
 </div>
 
-<span> Soy `Brandon Adrian Amarillo Silva` estudiante de la Universidad Nacional de la Patagonia San Juan Bosco (UNPSJB), actualmente cursando el 4to año.</span>
-</br>
-<span>Desarrollador Full Stack</span>
-</br>
-<span>Me interesa el desarrollo de aplicaciones web y la construcción de sistemas escalables y mantenibles.</span>
+<a href="https://www.linkedin.com/in/brandon-adrian-amarillo-silva-431787277/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+</a>
 
-# Stack
+`próximamente portafolio`
+
+# 👨🏻‍💻 Sobre Mí
+
+Soy **Brandon Adrian Amarillo Silva** estudiante de la **Licenciatura en Informática** en la Universidad Nacional de la Patagonia San Juan Bosco (UNPSJB).
+
+Me interesa el **Desarrollo de aplicaciones web**, la **Arquitectura de Software** y la construcción de sistemas **escalables, mantenibles y bien estructurados.**.
+
+Actualmente me enfoco en el desarrollo **Full Stack**, principalmente con Java, Spring Boot en backend y Angular y TypeScript en frontend.
+
+# 🛠️ Tech Stack
 
 ### 🎨 Frontend:
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
@@ -22,55 +30,57 @@
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 
-### 👨</> Backend:
+### ⚙️ Backend:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff)](#)
-
-### ✅ Testing:
-[![JUnit5](https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff)](#)
-
-### ⛁ DataBase:
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-
-### ⚙️ ORM: 
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
 
-### 🛠️ Herramientas:
+### ✅ Data & Testing:
+[![JUnit5](https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 
-### 📄 Editor de Código:
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
-
-### 🔖 DevOps
+### 🔖 DevOps & Tools
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
-### 🤝 Herramientas de colaboración
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
-[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+## 🚀 Proyectos destacados
 
-### 🖥️ OS
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+### 🎟️ Raffy
 
-### 📚 Aprendiendo
+Plataforma web para la gestión de **sorteos y eventos**, desarrollada como aplicación Full Stack.
+
+**Stack:** Angular · TypeScript · Java · Spring Boot · PostgreSQL · Docker
+
+**Características principales:**
+- Gestión de distintos tipos de eventos.
+- Sistema de participantes y ganadores.
+- Estrategias para determinar ganadores.
+- Auditoría de eventos.
+- API REST.
+- Arquitectura orientada a mantener y extender diferentes tipos de sorteos.
+---
+
+## 📚 Actualmente aprendiendo
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)](#)
 
-### Actualmente
-<span>Profundizando en `arquitectura de software`, `desarrollo backend`, y `buenas prácticas de ingeniería de software`.</span>
+Actualmente profundizando en:
 
-# Estadisticas
+- 🏗️ Arquitectura de software
+- ⚙️ Desarrollo backend
+- 🧪 Testing y buenas prácticas
+- 📡 Diseño y documentación de APIs
+- 🚀 Construcción de sistemas mantenibles y escalables
+
+---
+
+# 📊 Estadisticas
 <div align="center">
 <a href="https://github.com/BrandonAmarillo">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrandonAmarillo&theme=algolia&margin-w=5" height="180em" />
