@@ -18,7 +18,7 @@
 
 Soy **Brandon Adrian Amarillo Silva** estudiante de la **Licenciatura en Informática** en la Universidad Nacional de la Patagonia San Juan Bosco (UNPSJB).
 
-Me interesa el **Desarrollo de aplicaciones web**, la **Arquitectura de Software** y la construcción de sistemas **escalables, mantenibles y bien estructurados.**.
+Me interesa el **Desarrollo de aplicaciones web y de escritorio**, la **Arquitectura de Software** y la construcción de sistemas **escalables, mantenibles y bien estructurados.**.
 
 Actualmente me enfoco en el desarrollo **Full Stack**, principalmente con Java, Spring Boot en backend y Angular y TypeScript en frontend.
 
